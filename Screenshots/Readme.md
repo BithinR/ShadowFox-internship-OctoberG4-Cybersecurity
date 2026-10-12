@@ -6,8 +6,6 @@
 
 ## Files
 
-| File | Format | Purpose |
-|------|--------|---------|
 | `Cyber_Security_Intern_Report.pdf` | 
 
 ## What the report covers
